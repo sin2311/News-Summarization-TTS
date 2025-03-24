@@ -1,0 +1,14 @@
+streamlit==1.32.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+transformers==4.38.2
+torch==2.2.2
+gtts==2.5.1
+pandas==2.0.0  # Include version if you want to specify
+nltk==3.7  # Or latest version if needed
+fastapi==0.95.0  # Match the version used in your code
+uvicorn==0.18.2
+selenium==4.18.1
+webdriver-manager==3.8.5  # Include version for compatibility
+plotly==5.24.1
+googletrans==4.0.0-rc1
